@@ -1,3 +1,12 @@
 h1 {
-    color: blue;
+    color: rgb(50, 78, 43);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+li {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.line-1 {
+    height: 1px;
+    background: black;
 }
